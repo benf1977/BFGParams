@@ -1,6 +1,6 @@
 # BFGParams
 
-BFGParams is a small serialization / deserialization helper class written in Objective-C. It is intended for converting back and forth between first-class objects and JSON, but can also parameterize a first-class object into a URL query. It's primary benefit is its small size. A package like [RestKit](https://github.com/RestKit/RestKit) may provide a more complete solution.
+BFGParams is a small serialization / deserialization helper class written in Objective-C. It is intended for converting back and forth between first-class objects and JSON, but can also parameterize a first-class object into a URL query. Its primary benefit is its small size. A package like [RestKit](https://github.com/RestKit/RestKit) may provide a more complete solution.
 
 ## Usage
 
